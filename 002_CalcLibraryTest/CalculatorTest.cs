@@ -2,6 +2,9 @@ using _001_CalcLibrary;
 
 namespace _002_CalcLibraryTest
 {
+    // xUnit — це сучасний фреймворк для модульного тестування .NET-додатків,
+    // який є наступником MSTest та NUnit. Він був розроблений для покращення
+    // гнучкості та підтримки сучасних підходів до тестування.
     public class CalculatorTest
     {
         [Fact]
